@@ -21,3 +21,11 @@ venv\Scripts\activate
 pip install -U Sphinx
 pip install pylint black
 ```
+
+## Init Sphinx Project
+
+```sh
+sphinx-quickstart
+```
+
+Configuration terms: https://www.sphinx-doc.org/en/master/usage/configuration.html
